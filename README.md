@@ -13,5 +13,7 @@ However, in the near future, I will provide pretrained models for inference.
 
 
 **I will add run instructions in the near future**
+
+
 The dataset can be downloaded from kaggle:
 https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset
