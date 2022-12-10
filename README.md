@@ -10,3 +10,8 @@ The code here should serve as template to help you get started with your own pro
 However, in the near future, I will provide pretrained models for inference.
 
 ![](performance.png)
+
+
+**I will add run instructions in the near future**
+The dataset can be downloaded from kaggle:
+https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset
