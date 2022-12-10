@@ -2,7 +2,7 @@
 # Camvid_Semantic_Segmentatation_TF2
 [![Ubuntu](https://github.com/ptheywood/cuda-cmake-github-actions/workflows/Ubuntu/badge.svg)](https://github.com/ptheywood/cuda-cmake-github-actions/actions?query=workflow%3AUbuntu)
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-[![Travis](https://badges.aleen42.com/src/tensorflow.svg)]()
+[![Travis](https://badges.aleen42.com/src/pytorch.svg)]()
 ![coverage](https://img.shields.io/badge/coverage-100%25-green)
 
 > The goal of this project is to illustrate how easy it is to perform image segmentation with Pytorch. With relatively little effort it is possible to achieve acceptable results. 
