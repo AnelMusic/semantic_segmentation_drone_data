@@ -1,5 +1,5 @@
 
-# Camvid_Semantic_Segmentatation_TF2
+# Drone Segmentation
 [![Ubuntu](https://github.com/ptheywood/cuda-cmake-github-actions/workflows/Ubuntu/badge.svg)](https://github.com/ptheywood/cuda-cmake-github-actions/actions?query=workflow%3AUbuntu)
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 ![coverage](https://img.shields.io/badge/coverage-100%25-green)
